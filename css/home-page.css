@@ -1,0 +1,4 @@
+/* Smartphones ----------- */
+@media only screen and (max-width: 760px) {
+  .navbar { display:inline !important; }
+}
